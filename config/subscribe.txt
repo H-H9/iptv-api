@@ -318,7 +318,6 @@ https://live.45678888.xyz/sub?kbQyhXwA=txt
 http://rihou.cc:555/gggg.nzk
 https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
 https://4key.cn/FP
-https://16453.kstore.space/%E7%9B%B4%E6%92%AD%E6%BA%90/%E5%B9%BF%E8%A5%BF%E7%A7%BB%E5%8A%A8%E5%8F%AF%E7%94%A8.txt
 https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u
 https://raw.githubusercontent.com/Healer-sys/Home/refs/heads/main/iptv/gx.m3u
 https://raw.githubusercontent.com/Ethan-Men/8159-TV/refs/heads/master/output/user_result.txt
@@ -382,7 +381,6 @@ https://live.hacks.tools/tv/iptv4.txt
 https://live.zbds.top/tv/iptv4.txt
 http://www.52top.com.cn:678/downloads/migu.txt
 https://gh-proxy.org/https://raw.githubusercontent.com/H-H9/iptv-api/refs/heads/master/output/user_result.m3u
-https://16453.kstore.space/%E7%9B%B4%E6%92%AD%E6%BA%90/4k.txt
 http://38.75.136.137:88/api/tvlist.php
 https://gh-proxy.com/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/huyayqk.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
@@ -421,13 +419,11 @@ https://tmxk.pp.ua/smart-cn.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 https://gh.xxooo.cf/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
-https://16453.kstore.space/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86IPTV.txt
 https://16453.kstore.space/cesi/chundianbo/ITV.txt
 https://gitee.com/lee9108/tv/raw/master/gx.m3u
 https://gitee.com/lee9108/tv/raw/master/gx.m3u
 https://cdn.jsdelivr.net/gh/France113/m3u8/fyxzgrl_zb.m3u
 https://gitee.com/lee9108/tv/raw/master/gx.m3u
-https://16453.kstore.space/%E7%9B%B4%E6%92%AD%E6%BA%90/4k.txt
 
 https://develop202.github.io/migu_video/interface.txt
 
@@ -438,7 +434,3 @@ https://develop202.github.io/migu_video/interface.txt
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
 # This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
 
-# https://gitee.com/lee9108/tv/raw/master/gx.m3u
-https://16453.kstore.space/%E7%9B%B4%E6%92%AD%E6%BA%90/%E5%B9%BF%E8%A5%BF%E7%A7%BB%E5%8A%A8%E5%8F%AF%E7%94%A8.txt
-# https://raw.githubusercontent.com/Healer-sys/Home/refs/heads/main/iptv/gx.m3u
-https://16453.kstore.space/%E7%9B%B4%E6%92%AD%E6%BA%90/4k.txt
